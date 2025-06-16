@@ -38,7 +38,7 @@ Build your own **JARVIS-style AI Virtual Assistant** using the **MERN Stack** (M
 ---
 
 ## 📂 Folder Structure
-    ```bash
+  
           │ └── src/
           ├── client/ # React frontend
           │ └── components/
