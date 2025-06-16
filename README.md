@@ -94,19 +94,15 @@ Passwords are hashed using bcryptjs
 JWT tokens manage session securely
 Auth-protected routes using middleware
 
----
 
 ## 🧠 Gemini Integration
 All user voice input is sent to Gemini AI for a smart reply.
 The response is then spoken back using the browser’s Speech Synthesis API.
 
----
-
 ## 📸 Image Upload (Cloudinary)
 Users can upload a custom avatar for their assistant.
 Images are processed using Multer and stored securely in Cloudinary.
 
----
 
 ## 🧪 Live Demo
 Coming soon...
